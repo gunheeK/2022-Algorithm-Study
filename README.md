@@ -49,13 +49,11 @@
 <br>
 
 ## 📅일정
-|주차|날짜|폴더명|문제1|문제2|문제3|진행상황|
-|--|--|--|--|--|--|--|
-|1주차|220919|2022 KAKAO TECH INTERNSHIP|성격 유형 검사하기|두 큐 합 같게 만들기|등산코스 정하기|--|
-|2주차|220919|2022 KAKAO TECH INTERNSHIP|코딩 테스트 공부|행렬과 연산|--|--|
-|3주차|220926|2022 KAKAO BLIND RECRUITMENT|k진수에서 소수 개수 구하기|주차 요금 계산|신고 결과 받기|--|
-|4주차|221003|2022 KAKAO BLIND RECRUITMENT|파괴되지 않은 건물|양과 늑대|--|--|
-|5주차|221010|2022 KAKAO BLIND RECRUITMENT|양궁대회|사라지는 발판|--|--|
+
+|주차|날짜|폴더명|문제1|문제2|진행상황|
+|--|--|--|--|--|--|
+|1주차|220919|2022 KAKAO TECH INTERNSHIP|성격 유형 검사하기|두 큐 합 같게 만들기|--|
+|2주차|220926|코딩테스트 고득점 Kit 해시|완주하지 못한 선수|전화번호 목록|--|
 
 
-<!-- <img src="https://img.shields.io/badge/Done-93c6c3?style=flat-square"/> ->
+<!-- <img src="https://img.shields.io/badge/Done-93c6c3?style=flat-square"/> -->
