@@ -66,8 +66,8 @@ class Solution_h5 {
 /*public class hash5 {
 
 	public static void main(String[] args) {
-		String[] genres = { "classic" };
-		int[] plays = { 300 };
+		String[] genres = { "classic", "pop", "classic", "classic", "pop" };
+		int[] plays = { 500, 600, 150, 800, 2500 };
 		Solution_h5 s = new Solution_h5();
 		System.out.println(s.solution(genres, plays));
 
