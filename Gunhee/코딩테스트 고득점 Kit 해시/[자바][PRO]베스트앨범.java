@@ -63,7 +63,7 @@ class Solution_h5 {
 	}
 }
 
-public class hash5 {
+/*public class hash5 {
 
 	public static void main(String[] args) {
 		String[] genres = { "classic" };
@@ -73,6 +73,6 @@ public class hash5 {
 
 	}
 
-}
+}*/
 
 //출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
