@@ -13,7 +13,7 @@ class Solution_h3 {
 		return hash.size();
 	}
 }
-public class hash3 {
+/*public class hash3 {
 
 	public static void main(String[] args) {
 		int[] Phonekemon = {3,1,2,3};
@@ -22,6 +22,6 @@ public class hash3 {
 
 	}
 
-}
+}*/
 
 //출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
