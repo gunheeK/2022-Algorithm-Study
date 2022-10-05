@@ -50,10 +50,12 @@
 
 ## 📅일정
 
-|주차|날짜|폴더명|문제1|문제2|진행상황|
-|--|--|--|--|--|--|
-|1주차|220919|2022 KAKAO TECH INTERNSHIP|성격 유형 검사하기|두 큐 합 같게 만들기|--|
-|2주차|220926|코딩테스트 고득점 Kit 해시|완주하지 못한 선수|전화번호 목록|--|
+|주차|날짜|폴더명|문제1|문제2|문제3|진행상황|
+|--|--|--|--|--|--|--|
+|1주차|220919|2022 KAKAO TECH INTERNSHIP|성격 유형 검사하기|두 큐 합 같게 만들기|-|<img src="https://img.shields.io/badge/Done-93c6c3?style=flat-square"/>|
+|2주차|220926|코딩테스트 고득점 Kit 해시|완주하지 못한 선수|전화번호 목록|-|<img src="https://img.shields.io/badge/Done-93c6c3?style=flat-square"/>|
+|3주차|221003|코딩테스트 고득점 Kit 해시|폰켓몬|위장|베스트 앨범|<img src="https://img.shields.io/badge/Done-93c6c3?style=flat-square"/>|
+|4주차|221010|코딩테스트 고득점 Kit 스택/큐|같은 숫자는 싫어|올바른 괄호|-|-|
 
 
 <!-- <img src="https://img.shields.io/badge/Done-93c6c3?style=flat-square"/> -->
