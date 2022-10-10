@@ -19,7 +19,7 @@ class Solution_h4 {
 	}
 }
 
-public class hash4 {
+/*public class hash4 {
 	public static void main(String[] args) {
 		String[][] clothes = { { "yellow_hat", "headgear" }, { "blue_sunglasses", "eyewear" },
 				{ "green_turban", "headgear" } };
@@ -28,6 +28,6 @@ public class hash4 {
 
 	}
 
-}
+}*/
 
 //출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
