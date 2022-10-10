@@ -28,4 +28,4 @@ class Solution_s2 {
 
 }*/
 
-//ÃâÃ³: ÇÁ·Î±×·¡¸Ó½º ÄÚµù Å×½ºÆ® ¿¬½À, https://school.programmers.co.kr/learn/challenges
+//ì¶œì²˜: í”„ë¡œê·¸ëž˜ë¨¸ìŠ¤ ì½”ë”© í…ŒìŠ¤íŠ¸ ì—°ìŠµ, https://school.programmers.co.kr/learn/challenges
